@@ -14,7 +14,7 @@
 
 **Thoughts**: Great start, it turns out I set the bar way too low. And once I got started time just disappeared
 
-**Link(s) to work**:
+**Link(s) to work**: [freeCodeCamp](https://www.freecodecamp.org/learn)
 
 
 ### Day 2: April 27, 2020 
@@ -23,4 +23,11 @@
 
 **Thoughts**: Again time flew by as I worked my way through. I was surprised to see how familiar I was with the keyframe/animation properties, given my previous training in Flash from donkeys years ago. The more functions of CSS I understood the more project ideas I though of. I started a list so when I finally get to this stage, I should be all set.
 
-**Link(s) to work**:
+
+
+### Day 3: April 28, 2020  (R1D3)
+
+**Today's Progress**: Covered Applied Accessibility and Responsive Web design Principles. This included topics such as alt tags for images and clarity in structures for easily traversing the page and for screen readers.
+
+**Thoughts**: Was a cold and rainy day sitting in the garden today on my laptop. Hot water bottles helped greatly. These accessibility options should be treated as the basics rather than the cherry on top. This is the sort of content that led me to do this sort of structured learning. I so rarely have need of these functions that it wouldn't have occurred to me to research this topic individually. I'll be having a play around with screen readers on a few sites to better understand this view of the web.
+
