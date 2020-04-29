@@ -34,7 +34,7 @@
 
 ### Day 4: April 29, 2020  (R1D3)
 
-**Today's Progress**: Covered CSS Flex and its constituent parts and uses.
+**Today's Progress**: Covered CSS Flexbox and its constituent parts and uses.
 
 **Thoughts**:  This is when my websites don't only look modern, they feel modern. I will have to find a cheat-sheets to catalogue these tags. While logical, there are increasingly subtle differences between terms. Cheat-sheets to help me for now, and practice to cement. I'm gonna leave CSS Grid until tomorrow and look into Flex a little more tonight. 
 
