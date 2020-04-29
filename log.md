@@ -31,3 +31,10 @@
 
 **Thoughts**: Was a cold and rainy day sitting in the garden today on my laptop. Hot water bottles helped greatly. These accessibility options should be treated as the basics rather than the cherry on top. This is the sort of content that led me to do this sort of structured learning. I so rarely have need of these functions that it wouldn't have occurred to me to research this topic individually. I'll be having a play around with screen readers on a few sites to better understand this view of the web.
 
+
+### Day 4: April 29, 2020  (R1D3)
+
+**Today's Progress**: Covered CSS Flex and its constituent parts and uses.
+
+**Thoughts**:  This is when my websites don't only look modern, they feel modern. I will have to find a cheat-sheets to catalogue these tags. While logical, there are increasingly subtle differences between terms. Cheat-sheets to help me for now, and practice to cement. I'm gonna leave CSS Grid until tomorrow and look into Flex a little more tonight. 
+
