@@ -44,3 +44,16 @@
 **Today's Progress**: Covered CSS Grid.
 
 **Thoughts**:  The grid. A digital frontier. I tried to picture clusters of information as they moved through the computer. What did they look like? Ships, motorcycles. With the circuits like freeways. I kept dreaming of a world I thought I'd never see. And then one day, I got in.
+
+
+### Day 6: May 01, 2020  (R1D6)
+
+**Today's Progress**: I got myself up and running on CodePen, GitHub pages and Visual Studio Code.
+
+**Thoughts**:  Fantastic day! I set myself the challenge of getting a website online by the end of the day. And I did it! I knew before I could publish anything I needed to find all of the basic tools necessary for the task. I found GitHub pages was perfect for what I needed. Free static published page that allows me to stay in (And continue to learn) the GitHub ecosystem. 
+
+I also looked into CodePen, as it’s a part of the next section of freeCodeCamp and seems to be the online standard for sharing (Or at least displaying) code. 
+
+Finally (so far today) I looked into Visual Studio Code. After looking over several code editors (Siblime, Atom and webstorm) I settled with Visual Studio Code as the current industry standard. I may find that alternatives offer something more suited to me later, but for now it fulfils all of my requirements and is most common on tutorials I have been watching. 
+
+**Link(s) to work**: [Live testing site on GitHub pages](https://sinbadb.github.io/livetesting/)
