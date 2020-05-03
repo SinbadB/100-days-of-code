@@ -57,3 +57,12 @@ I also looked into CodePen, as it’s a part of the next section of freeCodeCamp
 Finally (so far today) I looked into Visual Studio Code. After looking over several code editors (Siblime, Atom and webstorm) I settled with Visual Studio Code as the current industry standard. I may find that alternatives offer something more suited to me later, but for now it fulfils all of my requirements and is most common on tutorials I have been watching. 
 
 **Link(s) to work**: [Live testing site on GitHub pages](https://sinbadb.github.io/livetesting/)
+
+⠀
+### Day 7/8: May 02-03 2020  (R1D6-7)⠀
+⠀
+**Weekends Progress**: Continued tribute page research and development⠀
+⠀
+**Thoughts**:  Took it easy this weekend, did slightly more than hour each day actually coding (testing different layouts and colour combinations) but spent most of my time purchasing a new desk and finding a space for it in my home so I don't need to sit at the garden table anymore... ⠀
+⠀
+I listened to a few great podcasts while tidying from freeCodeCamp, and watched a few YouTube's of people building sites from scratch. It was great to see how even these experts had to do a quick Google here and there to get the task done.
