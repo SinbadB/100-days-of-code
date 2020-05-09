@@ -59,10 +59,20 @@ Finally (so far today) I looked into Visual Studio Code. After looking over seve
 **Link(s) to work**: [Live testing site on GitHub pages](https://sinbadb.github.io/livetesting/)
 
 ⠀
-### Day 7/8: May 02-03 2020  (R1D6-7)⠀
+### Day 7/8 May 02-03 2020  (R1D7-8)⠀
 ⠀
 **Weekends Progress**: Continued tribute page research and development⠀
 ⠀
 **Thoughts**:  Took it easy this weekend, did slightly more than hour each day actually coding (testing different layouts and colour combinations) but spent most of my time purchasing a new desk and finding a space for it in my home so I don't need to sit at the garden table anymore... ⠀
 ⠀
 I listened to a few great podcasts while tidying from freeCodeCamp, and watched a few YouTube's of people building sites from scratch. It was great to see how even these experts had to do a quick Google here and there to get the task done.
+
+
+
+### Day 9: May 09, 2020  (R1D8)
+
+**Today's Progress**: In-depth practice of image manipulation and Grids in CSS.
+
+**Thoughts**:  After a week long hiatus due to health and family I'm back. I've been using my "down" time to slowly change my online feeds (podcasts, YouTube, Reddit) to webdev sources. It's been great. But I missed coding! Today however was incredible! Our desk is now fully armed and operational (added second screen and I'm now longer working on garden table!). 
+
+Great day working on my tribute page for freecodecamp responsive web design. I sketched exactly what I wanted it to look like, and after 8 hours of tweaking and only one complete restart I got it! I kept bouncing from tutorial to tutorial all with various ways of doing the same thing. Although I found a few solid resources/communities I'll be sticking around in as they were quite helpful. Will update with details when next on PC.
